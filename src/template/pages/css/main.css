@@ -1,0 +1,58 @@
+
+.nav-main {
+    max-width: 1440;
+    max-height: 93;
+    background: #FFFFFF; 
+}
+
+.nav-main .nav-main-icon {
+    max-width: 141px;
+    max-height: 141px;
+    background: url('/src/template/imagesource/SGN_09_24_2022_16639682174001.svg');
+    display: flexbox;
+    margin: auto;
+    padding: auto;
+}
+
+.nav-main .nav-button-join {
+    width: 65;
+    height: 26;
+    top: 33px;
+    left: 1315px;
+    border-radius: 5px;
+    background: #7CE3E1;    
+}
+
+.nav-main .nav-div-line {
+    width: 2;
+    height: 26;
+    top: 33px;
+    left: 1295px;
+    rotate: -180 deg;
+    opacity: 0.6;
+    background: #029491;
+}
+
+.nav-main .nav-main-register-text {
+    width: 146;
+    height: 17;
+    top: 37px;
+    left: 1129px;
+    opacity: 0.4;
+    content: "Зарегистрироваться";
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 1%;
+    background: #000000;
+}
+
+.nav-main .list-items-menu {
+    min-width: 236;
+    max-height: 17;
+    top: 38px;
+}
+.nav-main .list-items-menu ul {
+    list-style: none;
+}
